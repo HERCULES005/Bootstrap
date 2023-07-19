@@ -1,0 +1,9 @@
+.carousel-inner{
+    height: 800px;
+}
+
+.bd-placeholder-img{
+    background-size: inherit;
+    height: 300px;
+    width: 600px;
+}
